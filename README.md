@@ -8,8 +8,7 @@ In this Website Different there are so many courses with their respective Catego
 
 We also Design a Blog Page in this Website from where Student can read the trending Article that we Publish and Student can also send his/her article for publishing with their Name.
 
-GitHub Link:-https://github.com/saumya1112/E-Learning-master <br>
-Github Live Link:-https://saumya1112.github.io/E-Learning-master/#
+
 
 ### Requirements:<br>
 
@@ -26,6 +25,10 @@ b)	Software:<br>
 c)	Hardware Required:<br>
 -	Ram: 8GB<br>
 -	Hardisk:  500GB<br>
+
+
+### GitHub Link:-https://github.com/saumya1112/E-Learning-master <br>
+### Github Live Link:-https://saumya1112.github.io/E-Learning-master/#
 
 
 
