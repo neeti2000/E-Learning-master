@@ -27,8 +27,8 @@ c)	Hardware Required:<br>
 -	Hardisk:  500GB<br>
 
 
-### Github Link:-https://github.com/saumya1112/E-Learning-master <br>
-### Github Live Link:-https://saumya1112.github.io/E-Learning-master/#
+### Github Link:-https://github.com/saumya1112/E-Learning-Portal <br>
+### Github Live Link:-https://saumya1112.github.io/E-Learning-Portal/#
 
 
 
