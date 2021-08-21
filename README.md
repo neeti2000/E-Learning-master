@@ -1,7 +1,7 @@
 
 # E-Learning Portal<br> 
 
-About the Project: 
+About the Project: <br>
 The purpose of this project is to develop a front-end E-learning Website and that website helps the student that to learn the New and Trending Courses Free of Cost that are so much demand in Market.
 
 In this Website Different there are so many courses with their respective Category and Student can easily find out his/her courses that are available and one and most imp. Feature that is If any Courses is not available on Website then Student can Send us his/her query and got the info. That courses is available in near time or not.
