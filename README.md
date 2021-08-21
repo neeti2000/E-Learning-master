@@ -11,4 +11,22 @@ We also Design a Blog Page in this Website from where Student can read the trend
 GitHub Link:-https://github.com/saumya1112/E-Learning-master <br>
 Github Live Link:-https://saumya1112.github.io/E-Learning-master/#
 
+Requirements:<br>
+
+a)	Technology Used:<br>
+•	HTML<br>
+•	CSS<br>
+•	JavaScript<br>
+
+
+b)	Software:<br>
+•	WebStorm for Front-End<br>
+•	Chrome for Inspect Layout<br>
+
+c)	Hardware Required:<br>
+•	Ram: 8GB<br>
+•	Hardisk:  500GB<br>
+
+
+
 
